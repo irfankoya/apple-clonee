@@ -1,0 +1,10 @@
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    margin-left: 260px;
+    margin-right: 260px;
+    
+    
+}

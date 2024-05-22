@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(237, 237, 237);
+    overflow-x: hidden;
+    font-family: sans-serif;
+}
+footer{
+    /* width: 100%; */
+    /* position: absolute; */
+    border-bottom: 0;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 119px;
+    margin-left: 119px;
+}
